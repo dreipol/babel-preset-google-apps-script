@@ -28,53 +28,53 @@ npm install --save-dev @dreipol/babel-preset-google-apps-script
 
 #### ES3
 
-- :white_check_mark: [member-expression-literals](https://babeljs.io/docs/en/babel-plugin-transform-member-expression-literals.md)
-- :white_check_mark: [property-literals](https://babeljs.io/docs/en/babel-plugin-transform-property-literals.md)
-- :grey_question: [reserved-words](https://babeljs.io/docs/en/babel-plugin-transform-reserved-words.md)
+- :white_check_mark: [member-expression-literals](https://babeljs.io/docs/en/babel-plugin-transform-member-expression-literals)
+- :white_check_mark: [property-literals](https://babeljs.io/docs/en/babel-plugin-transform-property-literals)
+- :grey_question: [reserved-words](https://babeljs.io/docs/en/babel-plugin-transform-reserved-words)
 
 #### ES5
 
-- :o: [property-mutators](https://babeljs.io/docs/en/babel-plugin-transform-property-mutators.md)
+- :o: [property-mutators](https://babeljs.io/docs/en/babel-plugin-transform-property-mutators)
 
 #### ES2015
 
-- :white_check_mark: [arrow-functions](https://babeljs.io/docs/en/babel-plugin-transform-arrow-functions.md)
-- :white_check_mark: [block-scoped-functions](https://babeljs.io/docs/en/babel-plugin-transform-block-scoped-functions.md)
-- :white_check_mark: [block-scoping](https://babeljs.io/docs/en/babel-plugin-transform-block-scoping.md)
-- :white_check_mark: [classes](https://babeljs.io/docs/en/babel-plugin-transform-classes.md)
-- :white_check_mark: [computed-properties](https://babeljs.io/docs/en/babel-plugin-transform-computed-properties.md)
-- :white_check_mark: [destructuring](https://babeljs.io/docs/en/babel-plugin-transform-destructuring.md)
-- :white_check_mark: [duplicate-keys](https://babeljs.io/docs/en/babel-plugin-transform-duplicate-keys.md)
-- :white_check_mark: [for-of](https://babeljs.io/docs/en/babel-plugin-transform-for-of.md)
-- :white_check_mark: [function-name](https://babeljs.io/docs/en/babel-plugin-transform-function-name.md)
-- :grey_question: [instanceof](https://babeljs.io/docs/en/babel-plugin-transform-instanceof.md)
-- :white_check_mark: [literals](https://babeljs.io/docs/en/babel-plugin-transform-literals.md)
-- :grey_question: [new-target](https://babeljs.io/docs/en/babel-plugin-transform-new-target.md)
-- :white_check_mark: [object-super](https://babeljs.io/docs/en/babel-plugin-transform-object-super.md)
-- :white_check_mark: [parameters](https://babeljs.io/docs/en/babel-plugin-transform-parameters.md)
-- :white_check_mark: [shorthand-properties](https://babeljs.io/docs/en/babel-plugin-transform-shorthand-properties.md)
-- :white_check_mark: [spread](https://babeljs.io/docs/en/babel-plugin-transform-spread.md)
-- :o: [sticky-regex](https://babeljs.io/docs/en/babel-plugin-transform-sticky-regex.md)
-- :white_check_mark: [template-literals](https://babeljs.io/docs/en/babel-plugin-transform-template-literals.md)
-- :x: [typeof-symbol](https://babeljs.io/docs/en/babel-plugin-transform-typeof-symbol.md)
-- :white_check_mark: [unicode-regex](https://babeljs.io/docs/en/babel-plugin-transform-unicode-regex.md)
+- :white_check_mark: [arrow-functions](https://babeljs.io/docs/en/babel-plugin-transform-arrow-functions)
+- :white_check_mark: [block-scoped-functions](https://babeljs.io/docs/en/babel-plugin-transform-block-scoped-functions)
+- :white_check_mark: [block-scoping](https://babeljs.io/docs/en/babel-plugin-transform-block-scoping)
+- :white_check_mark: [classes](https://babeljs.io/docs/en/babel-plugin-transform-classes)
+- :white_check_mark: [computed-properties](https://babeljs.io/docs/en/babel-plugin-transform-computed-properties)
+- :white_check_mark: [destructuring](https://babeljs.io/docs/en/babel-plugin-transform-destructuring)
+- :white_check_mark: [duplicate-keys](https://babeljs.io/docs/en/babel-plugin-transform-duplicate-keys)
+- :white_check_mark: [for-of](https://babeljs.io/docs/en/babel-plugin-transform-for-of)
+- :white_check_mark: [function-name](https://babeljs.io/docs/en/babel-plugin-transform-function-name)
+- :grey_question: [instanceof](https://babeljs.io/docs/en/babel-plugin-transform-instanceof)
+- :white_check_mark: [literals](https://babeljs.io/docs/en/babel-plugin-transform-literals)
+- :grey_question: [new-target](https://babeljs.io/docs/en/babel-plugin-transform-new-target)
+- :white_check_mark: [object-super](https://babeljs.io/docs/en/babel-plugin-transform-object-super)
+- :white_check_mark: [parameters](https://babeljs.io/docs/en/babel-plugin-transform-parameters)
+- :white_check_mark: [shorthand-properties](https://babeljs.io/docs/en/babel-plugin-transform-shorthand-properties)
+- :white_check_mark: [spread](https://babeljs.io/docs/en/babel-plugin-transform-spread)
+- :o: [sticky-regex](https://babeljs.io/docs/en/babel-plugin-transform-sticky-regex)
+- :white_check_mark: [template-literals](https://babeljs.io/docs/en/babel-plugin-transform-template-literals)
+- :x: [typeof-symbol](https://babeljs.io/docs/en/babel-plugin-transform-typeof-symbol)
+- :white_check_mark: [unicode-regex](https://babeljs.io/docs/en/babel-plugin-transform-unicode-regex)
 
 #### ES2016
 
-- :white_check_mark: [exponentiation-operator](https://babeljs.io/docs/en/babel-plugin-transform-exponentiation-operator.md)
+- :white_check_mark: [exponentiation-operator](https://babeljs.io/docs/en/babel-plugin-transform-exponentiation-operator)
 
 #### ES2017
 
-- :x: [async-to-generator](https://babeljs.io/docs/en/babel-plugin-transform-async-to-generator.md)
+- :x: [async-to-generator](https://babeljs.io/docs/en/babel-plugin-transform-async-to-generator)
 
 #### ES2018
 
-- :grey_question: [async-generator-functions](https://babeljs.io/docs/en/babel-plugin-proposal-async-generator-functions.md)
-- :grey_question: [dotall-regex](https://babeljs.io/docs/en/babel-plugin-transform-dotall-regex.md)
-- :grey_question: [named-capturing-groups-regex](https://babeljs.io/docs/en/babel-plugin-transform-named-capturing-groups-regex.md)
-- :grey_question: [object-rest-spread](https://babeljs.io/docs/en/babel-plugin-proposal-object-rest-spread.md)
-- :grey_question: [optional-catch-binding](https://babeljs.io/docs/en/babel-plugin-proposal-optional-catch-binding.md)
-- :grey_question: [unicode-property-regex](https://babeljs.io/docs/en/babel-plugin-proposal-unicode-property-regex.md)
+- :grey_question: [async-generator-functions](https://babeljs.io/docs/en/babel-plugin-proposal-async-generator-functions)
+- :grey_question: [dotall-regex](https://babeljs.io/docs/en/babel-plugin-transform-dotall-regex)
+- :grey_question: [named-capturing-groups-regex](https://babeljs.io/docs/en/babel-plugin-transform-named-capturing-groups-regex)
+- :grey_question: [object-rest-spread](https://babeljs.io/docs/en/babel-plugin-proposal-object-rest-spread)
+- :grey_question: [optional-catch-binding](https://babeljs.io/docs/en/babel-plugin-proposal-optional-catch-binding)
+- :grey_question: [unicode-property-regex](https://babeljs.io/docs/en/babel-plugin-proposal-unicode-property-regex)
 
 ## Further reading
 
