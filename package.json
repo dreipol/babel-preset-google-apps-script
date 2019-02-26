@@ -1,6 +1,6 @@
 {
   "name": "@dreipol/babel-preset-google-apps-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset for Google Apps Script (surprise!)",
   "main": "index.js",
   "scripts": {
