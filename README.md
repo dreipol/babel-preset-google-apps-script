@@ -15,7 +15,7 @@ npm install --save-dev @dreipol/babel-preset-google-apps-script
 
 ```json
 {
-  "presets": ["@dreipol/google-apps-script"]
+  "presets": ["@dreipol/babel-preset-google-apps-script"]
 }
 ```
 
